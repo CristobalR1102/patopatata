@@ -1,0 +1,5 @@
+.vercel
+.claude/
+respaldo-diseno-anterior/
+__pycache__/
+*.pyc

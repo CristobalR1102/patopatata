@@ -1,0 +1,8 @@
+# Archivos de trabajo que no deben publicarse
+respaldo-diseno-anterior/
+tools/
+.claude/
+assets/img/README.txt
+assets/img/fries-pattern.svg
+assets/img/logopatopatata.jpg
+assets/img/rappi-icon.png

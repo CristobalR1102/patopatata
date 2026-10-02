@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="200" viewBox="0 0 160 200">
+  <defs>
+    <g id="fry">
+      <rect x="0" y="0" width="22" height="70" rx="6" fill="#FFFFFF" fill-opacity="0.16"/>
+      <circle cx="7" cy="24" r="1.6" fill="#2B1B4E" fill-opacity="0.22"/>
+      <circle cx="15" cy="24" r="1.6" fill="#2B1B4E" fill-opacity="0.22"/>
+      <path d="M6 32 Q11 37 16 32" stroke="#2B1B4E" stroke-opacity="0.22" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    </g>
+  </defs>
+  <g transform="translate(10,10) rotate(-6 11 35)">
+    <use href="#fry"/>
+  </g>
+  <g transform="translate(60,40) rotate(8 11 35)">
+    <use href="#fry"/>
+  </g>
+  <g transform="translate(110,5) rotate(-10 11 35)">
+    <use href="#fry"/>
+  </g>
+  <g transform="translate(30,110) rotate(5 11 35)">
+    <use href="#fry"/>
+  </g>
+  <g transform="translate(90,130) rotate(-4 11 35)">
+    <use href="#fry"/>
+  </g>
+</svg>
